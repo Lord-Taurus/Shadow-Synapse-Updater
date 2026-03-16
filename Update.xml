@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0</version>
+    <version>1.1</version>
     <url>https://github.com/Lord-Taurus/Shadow-Synapse-Updater/releases/download/Synapse-v1.0/SynapseDesktop-v1.0.zip</url>
     <changelog>https://raw.githubusercontent.com/Lord-Taurus/Shadow-Synapse-Updater/refs/heads/main/Update.md</changelog>
     <mandatory mode="1">false</mandatory>
