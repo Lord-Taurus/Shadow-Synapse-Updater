@@ -1,7 +1,7 @@
 # 🛰️ Synapse Update Infrastructure
 
 ![Updater](https://img.shields.io/badge/Service-AutoUpdater.NET-blueviolet?style=for-the-badge)
-![Security](https://img.shields.io/badge/Access-Private_Repo-red?style=for-the-badge)
+![Security](https://img.shields.io/badge/Access-Public_Repo-red?style=for-the-badge)
 ![Maintenance](https://img.shields.io/badge/Status-Automated-success?style=for-the-badge)
 
 Ez a privát tároló a **Synapse** ökoszisztéma frissítési folyamatait szolgálja ki. Itt tárolódnak a verziókezelő XML fájlok, a kiadási jegyzékek (changelogs) és a telepítőcsomagok metaadatai.
